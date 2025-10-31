@@ -1,4 +1,3 @@
-# COMEDERO_narella_rojas
 # 🐱 Comedero Inteligente y Automático para Gatos (Arduino)
 
 Este proyecto es un comedero automático para mascotas desarrollado en Arduino UNO, diseñado para solucionar el problema de múltiples mascotas con diferentes dietas.
