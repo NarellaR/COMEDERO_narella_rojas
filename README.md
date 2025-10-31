@@ -62,4 +62,4 @@ El 'loop()' principal opera como una máquina de estados no bloqueante (usando '
 
 Este proyecto fue prototipado en Wokwi. Dado que Wokwi no simula el MFRC522, la lógica RFID fue reemplazada por dos botones (Pines 11 y 12) que actúan como "Tag Permitido" y "Tag Denegado" para probar el flujo del programa.
 
-(En proceso).
+[Simulación del comedero.](https://wokwi.com/projects/446162678391447553)
